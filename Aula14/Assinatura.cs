@@ -1,7 +1,7 @@
-﻿using System.Diagnostics.Tracing;
+using System.Diagnostics.Tracing;
 using System;
 
-namespace Aula14
+namespace ATT_Antonio
 {
 public class Assinatura : Licensa
 {
